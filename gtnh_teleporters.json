@@ -36,6 +36,13 @@
             "bg_color": "#a2f0fa",
             "fg_color": "#000000",
             "icon": null
+        },
+            "spacestationneptun": {
+            "name": "Raumstation Neptune",
+            "frequency": 2565,
+            "pos": 6,
+            "bg_color": "#800020",
+            "icon": null
         }
     }
 }
