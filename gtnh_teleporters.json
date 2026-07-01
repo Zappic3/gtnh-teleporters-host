@@ -1,0 +1,41 @@
+{
+    "version": 4,
+    "tps": {
+        "mainbase": {
+            "name": "Hauptbasis",
+            "frequency": 2560,
+            "pos": 1,
+            "bg_color": "#2a6263",
+            "fg_color": "#03f4fc",
+            "icon": null
+        },
+        "magiccastle": {
+            "name": "Magie-Burg",
+            "frequency": 2561,
+            "pos": 2,
+            "bg_color": "#5b1487",
+            "fg_color": "#d62fcd",
+            "icon": null
+        },
+        "twilightforest": {
+            "name": "Twilight Forest",
+            "frequency": 2562,
+            "pos": 3,
+            "icon": null
+        },
+        "endoutpost": {
+            "name": "End Outpost",
+            "frequency": 2563,
+            "pos": 4,
+            "icon": null
+        },
+        "personaldimension": {
+            "name": "Personal Dimension",
+            "frequency": 2564,
+            "pos": 5,
+            "bg_color": "#a2f0fa",
+            "fg_color": "#000000",
+            "icon": null
+        }
+    }
+}
