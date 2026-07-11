@@ -43,6 +43,13 @@
             "pos": 6,
             "bg_color": "#800020",
             "icon": null
+        },
+            "Enceladus": {
+            "name": "Enceladus",
+            "frequency": 2566,
+            "pos": 7,
+            "bg_color": "#5CE65C",
+            "icon": null
         }
     }
 }
