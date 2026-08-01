@@ -50,6 +50,13 @@
             "pos": 7,
             "bg_color": "#5CE65C",
             "icon": null
+        },
+            "Venus": {
+            "name": "Venus",
+            "frequency": 2567,
+            "pos": 8,
+            "bg_color": "#DAA520",
+            "icon": null
         }
     }
 }
