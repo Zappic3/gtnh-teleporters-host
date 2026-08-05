@@ -57,6 +57,13 @@
             "pos": 8,
             "bg_color": "#DAA520",
             "icon": null
+        },
+            "Callisto": {
+            "name": "Callisto",
+            "frequency": 2568,
+            "pos": 8,
+            "bg_color": "#CDC1C5",
+            "icon": null
         }
     }
 }
