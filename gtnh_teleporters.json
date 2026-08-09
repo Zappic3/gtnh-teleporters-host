@@ -61,8 +61,15 @@
             "Callisto": {
             "name": "Callisto",
             "frequency": 2568,
-            "pos": 8,
+            "pos": 9,
             "bg_color": "#CDC1C5",
+            "icon": null
+        },
+            "spacestationjupiter": {
+            "name": "Raumstation Jupiter",
+            "frequency": 2569,
+            "pos": 6,
+            "bg_color": "#CD7F32",
             "icon": null
         }
     }
