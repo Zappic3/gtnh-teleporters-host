@@ -71,6 +71,13 @@
             "pos": 6,
             "bg_color": "#CD7F32",
             "icon": null
+        },
+            "Barnarda F": {
+            "name": "Barnarda F",
+            "frequency": 2570,
+            "pos": 10,
+            "bg_color": "#351E10",
+            "icon": null
         }
     }
 }
