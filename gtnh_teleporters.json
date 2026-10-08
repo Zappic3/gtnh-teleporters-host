@@ -73,9 +73,16 @@
             "icon": null
         },
             "Barnarda F": {
-            "name": "Barnarda F",
+            "name": "Barnarda F[Mining]",
             "frequency": 2570,
-            "pos": 10,
+            "pos": 20,
+            "bg_color": "#351E10",
+            "icon": null
+        },
+            "Vega B": {
+            "name": "Vega B[Mining]",
+            "frequency": 2571,
+            "pos": 21,
             "bg_color": "#351E10",
             "icon": null
         }
