@@ -92,6 +92,13 @@
             "pos": 22,
             "bg_color": "#351E10",
             "icon": null
+        },
+            "Barnard C": {
+            "name": "Barnard C[Mining]",
+            "frequency": 2574,
+            "pos": 23,
+            "bg_color": "#351E10",
+            "icon": null
         }
     }
 }
