@@ -85,6 +85,13 @@
             "pos": 21,
             "bg_color": "#351E10",
             "icon": null
+        },
+            "T Ceti E": {
+            "name": "T Ceti E[Mining]",
+            "frequency": 2572,
+            "pos": 22,
+            "bg_color": "#351E10",
+            "icon": null
         }
     }
 }
